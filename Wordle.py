@@ -2,7 +2,6 @@
 #The following project codes a Wordle game in which the user tries to find what the hidden five-letter word is within six guesses.
 #User is prompted to input a word, given 'Y' for letters in the word in a different place, 'G' for letters in the right place, and '_' for incorrect.
 
-
 import random
 
 words = ["ABOUT","AUDIO","BAKED","BINGE","CLOUD","COUCH","FLARE","FLOAT","SNIPE","STARE"]
